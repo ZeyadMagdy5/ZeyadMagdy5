@@ -2,134 +2,136 @@
   <img src="https://raw.githubusercontent.com/ZeyadMagdy5/ZeyadMagdy5/main/zeyad.png" alt="Zeyad" />
 </p>
 
+<h3 align="center">
 Computer Science Student | Software Engineer | Coding Instructor @ 3C School | Problem Solver | Web Developer
 </h3>
 
 ---
 
-## 👨‍💻 A little bit about me
+## 👨‍💻 About Me
 
-🎓 &nbsp;I'm currently a Computer Science student at Benha University, passionate about software development, AI, and problem-solving.  
-🌱 &nbsp;I'm constantly improving my skills in Data Structures, Algorithms, and Artificial Intelligence.  
-🧠 &nbsp;I enjoy solving problems and building real-world projects that create impact.  
-👨‍🏫 &nbsp;I work as a Coding Instructor where I teach programming fundamentals to kids and improve my communication and leadership skills.  
-🚀 &nbsp;I'm aiming to grow as a software engineer and contribute to innovative tech solutions in the future.  
-💬 &nbsp;I enjoy collaborating with developers, learning new technologies, and participating in competitive programming.
+- I am currently a Computer Science student at Benha University, passionate about software development, artificial intelligence, and problem solving.
+
+- I continuously work on improving my skills in Data Structures, Algorithms, and Artificial Intelligence.
+
+- I enjoy building real-world projects that create practical impact and solve meaningful problems.
+
+- I also work as a Coding Instructor, where I teach programming fundamentals to children and improve my communication, teaching, and leadership skills.
+
+- My goal is to grow as a professional software engineer and contribute to innovative technology solutions.
 
 ---
 
 ## 💼 Experience
 
-### 🧑‍🏫 Coding Instructor @ 3C School
-- Teach programming fundamentals (C++, Python) to students  
-- Improve problem-solving and logical thinking skills  
-- Develop interactive coding exercises and mini projects  
+###  Coding Instructor — 3C School
+- Teach programming fundamentals in C++ and Python  
+- Improve students’ problem-solving and logical thinking abilities  
+- Develop structured exercises and small projects  
 - Strengthened communication, patience, and leadership skills  
 
-### 🧠 Competitive Programming (ACPC Participant)
+###  Competitive Programming Participant — ACPC
 - Participated in competitive programming training and contests  
-- Improved algorithmic thinking and time management skills  
-- Solved complex Data Structures & Algorithms problems  
+- Improved algorithmic thinking and time management  
+- Solved advanced Data Structures and Algorithms problems  
 
-### 👥 Member @ GDSC
+###  Member — Google Developer Student Club (GDSC)
 - Collaborated with peers on technical workshops and projects  
 - Participated in hackathons and coding challenges  
-- Worked on improving development and teamwork skills  
+- Improved teamwork and software development experience  
 
 ---
 
 ## 🚀 Projects
 
-### 🛒 Ziko Store - E-Commerce Web Application  
-🌐 Live Demo: https://ziko-store.vercel.app/
+###  Ziko Store - E-Commerce Web Application  
+Live Demo: https://ziko-store.vercel.app/
 
-- Built a responsive e-commerce platform with modern UI/UX design  
-- Designed smooth user experience with structured product browsing  
-- Focused on frontend development and clean interface design  
-- Deployed using Vercel for real-world accessibility  
-- Demonstrates frontend development, deployment workflow, and product thinking  
+- Built a responsive e-commerce platform with modern user interface and experience  
+- Designed structured product browsing and smooth navigation  
+- Focused on frontend development and clean UI design  
+- Deployed using Vercel for production usage  
 
-**Tech Stack:** React / JavaScript / CSS / HTML
+**Technologies:** React, JavaScript, CSS, HTML, C#, SQL Server  
 
 ---
 
-### 🏨 Hotel Management System
+###  Smart Rehabilitation Gloves — Final Year Project
+- Designing a smart wearable glove for hand rehabilitation and therapy tracking  
+- Using motion sensors to capture real-time finger movement  
+- Developing software to analyze recovery progress  
+- Exploring AI-based feedback for rehabilitation exercises  
+- Combining hardware engineering with artificial intelligence in healthcare applications  
+
+**Status:** In Development  
+
+**Focus Areas:** Embedded Systems, Healthcare AI, Sensor Data Analysis, Human-Computer Interaction  
+
+---
+
+###  Hotel Management System
 - Desktop application with database integration  
-- Managed bookings, users, and system logic  
-- Tech: Java, MySQL, JDBC  
+- Handles bookings, users, and system logic  
+- Technologies: Java, MySQL, JDBC  
 
 ---
 
-### 🛒 Online Book Store
+###  Online Book Store
 - Full-stack web application with authentication and admin panel  
-- Includes cart, checkout, and database integration  
-- Tech: HTML, CSS, JavaScript, PHP, MySQL  
+- Includes shopping cart and checkout system  
+- Technologies: HTML, CSS, JavaScript, PHP, MySQL  
 
 ---
 
-### 😷 Face Mask Detection (CNN)
+###  Face Mask Detection (CNN)
 - Deep learning model for image classification  
-- Achieved high accuracy using CNN architecture  
-- Tech: Python, TensorFlow / Keras  
+- Built using Convolutional Neural Networks  
+- Technologies: Python, TensorFlow, Keras, CNN  
 
 ---
-### 🧤 Smart Rehabilitation Gloves – AI-Powered Medical Assistance System
-- Designing a smart wearable glove for post-injury hand rehabilitation and therapy monitoring
-- Integrating motion sensors to capture real-time finger movement and hand activity
-- Developing software to analyze movement patterns and track patient recovery progress
-- Exploring AI-based feedback mechanisms to guide rehabilitation exercises
-- Bridging hardware engineering, data analysis, and machine learning for healthcare innovation
-
-**Status:** 🚧 In Development (Final Year Project)  
-**Focus Areas:** Embedded Systems | Healthcare AI | Sensor Data Analysis | Human-Computer Interaction
 
 ## 🛠️ Skills
 
-### 💻 Programming Languages
-C++, Python, Java, JavaScript, C#
+###  Programming Languages
 
-### 🧠 Computer Science
-Data Structures, Algorithms, OOP, Problem Solving, Design Patterns
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🤖 AI / Machine Learning
-Machine Learning Basics, Model Training
+###  Computer Science Fundamentals
+![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=flat-square&logo=gitbook&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-45b8d1?style=flat-square&logo=data-structures&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-3776AB?style=flat-square&logo=python&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-000000?style=flat-square&logo=diagrams.net&logoColor=white)
 
-### 🌐 Web Development
-HTML, CSS, JavaScript, C#, MySQL, SQl Server
+###  Artificial Intelligence
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN_Models-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🛠️ Tools
-Git, GitHub
+###  Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlserver" />
+</p>
+
+###  Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadMagdy5&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadMagdy5&layout=compact" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:zeyadmagdy13122003@gmail.com">
-    <img src="https://img.icons8.com/color/32/000000/gmail.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zeyad-magdy-857348256/">
-    <img src="https://img.icons8.com/color/32/000000/linkedin.png"/>
-  </a>
-  <a href="https://github.com/ZeyadMagdy5">
-    <img src="https://img.icons8.com/ios-glyphs/32/000000/github.png"/>
-  </a>
-  <a href="https://www.facebook.com/zeyad.magdy.984">
-    <img src="https://img.icons8.com/color/32/000000/facebook.png"/>
-  </a>
+  <a href="mailto:zeyadmagdy13122003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/zeyad-magdy-857348256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ZeyadMagdy5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.facebook.com/zeyad.magdy.984"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ Always learning. Always building. Always improving. ⭐
