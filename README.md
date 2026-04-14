@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif" />
+  <img src="https://raw.githubusercontent.com/ZeyadMagdy5/ZeyadMagdy5/main/zeyad.png" alt="Zeyad" />
 </p>
 
-<h3 align="center">
 Computer Science Student | Software Engineer | Coding Instructor @ 3C School | Problem Solver | Web Developer
 </h3>
 
