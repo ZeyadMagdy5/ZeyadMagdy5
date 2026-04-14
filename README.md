@@ -1,32 +1,21 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/demo.gif" />
+  <img src="https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif" />
 </p>
 
 <h3 align="center">
-  Computer Science Student | AI Enthusiast | Coding Instructor @ 3C School | Competitive Programmer
+Computer Science Student | Software Engineer | Coding Instructor @ 3C School | Problem Solver | Web Developer
 </h3>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 A little bit about me
 
-🎓 I'm Zeyad Magdy, a Computer Science student at Benha University, passionate about software development, AI, and problem-solving.
-
-🌱 I'm continuously improving my skills in Data Structures, Algorithms, and Artificial Intelligence.
-
-🧠 I enjoy solving real-world problems through code and building impactful software solutions.
-
-💬 I love teaching programming to kids, which helps me simplify complex ideas and improve my communication skills.
-
-🚀 I aim to grow as a software engineer and contribute to innovative tech solutions in the future.
-
----
-
-## 🎓 Education
-
-- **B.Sc. in Computer Science**  
-  Benha University (2022 – 2025/2026 Expected)  
-  Focus: Data Structures, Algorithms, Software Engineering, AI Fundamentals
+🎓 &nbsp;I'm currently a Computer Science student at Benha University, passionate about software development, AI, and problem-solving.  
+🌱 &nbsp;I'm constantly improving my skills in Data Structures, Algorithms, and Artificial Intelligence.  
+🧠 &nbsp;I enjoy solving problems and building real-world projects that create impact.  
+👨‍🏫 &nbsp;I work as a Coding Instructor where I teach programming fundamentals to kids and improve my communication and leadership skills.  
+🚀 &nbsp;I'm aiming to grow as a software engineer and contribute to innovative tech solutions in the future.  
+💬 &nbsp;I enjoy collaborating with developers, learning new technologies, and participating in competitive programming.
 
 ---
 
@@ -34,30 +23,50 @@
 
 ### 🧑‍🏫 Coding Instructor @ 3C School
 - Teach programming fundamentals (C++, Python) to students  
-- Improve students' problem-solving and logical thinking skills  
+- Improve problem-solving and logical thinking skills  
 - Develop interactive coding exercises and mini projects  
+- Strengthened communication, patience, and leadership skills  
 
 ### 🧠 Competitive Programming (ACPC Participant)
 - Participated in competitive programming training and contests  
-- Improved algorithmic thinking and problem-solving speed  
+- Improved algorithmic thinking and time management skills  
+- Solved complex Data Structures & Algorithms problems  
 
 ### 👥 Member @ GDSC
-- Collaborated with peers on technical projects  
-- Participated in workshops, coding challenges, and hackathons  
+- Collaborated with peers on technical workshops and projects  
+- Participated in hackathons and coding challenges  
+- Worked on improving development and teamwork skills  
 
 ---
 
 ## 🚀 Projects
 
+### 🛒 Ziko Store - E-Commerce Web Application  
+🌐 Live Demo: https://ziko-store.vercel.app/
+
+- Built a responsive e-commerce platform with modern UI/UX design  
+- Designed smooth user experience with structured product browsing  
+- Focused on frontend development and clean interface design  
+- Deployed using Vercel for real-world accessibility  
+- Demonstrates frontend development, deployment workflow, and product thinking  
+
+**Tech Stack:** React / JavaScript / CSS / HTML
+
+---
+
 ### 🏨 Hotel Management System
-- Built a full desktop system with database integration  
-- Managed users, bookings, and system logic  
+- Desktop application with database integration  
+- Managed bookings, users, and system logic  
 - Tech: Java, MySQL, JDBC  
 
+---
+
 ### 🛒 Online Book Store
-- Full-stack web application with authentication & admin panel  
+- Full-stack web application with authentication and admin panel  
 - Includes cart, checkout, and database integration  
 - Tech: HTML, CSS, JavaScript, PHP, MySQL  
+
+---
 
 ### 😷 Face Mask Detection (CNN)
 - Deep learning model for image classification  
@@ -65,23 +74,32 @@
 - Tech: Python, TensorFlow / Keras  
 
 ---
+### 🧤 Smart Rehabilitation Gloves – AI-Powered Medical Assistance System
+- Designing a smart wearable glove for post-injury hand rehabilitation and therapy monitoring
+- Integrating motion sensors to capture real-time finger movement and hand activity
+- Developing software to analyze movement patterns and track patient recovery progress
+- Exploring AI-based feedback mechanisms to guide rehabilitation exercises
+- Bridging hardware engineering, data analysis, and machine learning for healthcare innovation
+
+**Status:** 🚧 In Development (Final Year Project)  
+**Focus Areas:** Embedded Systems | Healthcare AI | Sensor Data Analysis | Human-Computer Interaction
 
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-C++, Python, Java, JavaScript, PHP
+C++, Python, Java, JavaScript, C#
 
-### 🧠 Core CS
-Data Structures, Algorithms, OOP, Problem Solving, Competitive Programming
+### 🧠 Computer Science
+Data Structures, Algorithms, OOP, Problem Solving, Design Patterns
 
-### 🤖 AI / ML
-Machine Learning Basics, CNN, Model Training
+### 🤖 AI / Machine Learning
+Machine Learning Basics, Model Training
 
 ### 🌐 Web Development
-HTML, CSS, JavaScript, PHP, MySQL
+HTML, CSS, JavaScript, C#, MySQL, SQl Server
 
 ### 🛠️ Tools
-Git, GitHub, VS Code
+Git, GitHub
 
 ---
 
@@ -99,10 +117,20 @@ Git, GitHub, VS Code
 
 ## 📫 Contact Me
 
-- 📧 Email: zeyadmagdy13122003@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/zeyad-magdy-857348256/  
-- 💻 GitHub: https://github.com/ZeyadMagdy5  
-
+<p align="center">
+  <a href="mailto:zeyadmagdy13122003@gmail.com">
+    <img src="https://img.icons8.com/color/32/000000/gmail.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zeyad-magdy-857348256/">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png"/>
+  </a>
+  <a href="https://github.com/ZeyadMagdy5">
+    <img src="https://img.icons8.com/ios-glyphs/32/000000/github.png"/>
+  </a>
+  <a href="https://www.facebook.com/zeyad.magdy.984">
+    <img src="https://img.icons8.com/color/32/000000/facebook.png"/>
+  </a>
+</p>
 ---
 
-⭐ *Always learning, always building, always improving.*
+⭐ *Always learning. Always building. Always improving.*
