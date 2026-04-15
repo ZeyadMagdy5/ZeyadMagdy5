@@ -134,4 +134,4 @@ Live Demo: https://ziko-store.vercel.app/
 </p>
 
 
-⭐ Always learning. Always building. Always improving. ⭐
+<p align="center">⭐ Always learning. Always building. Always improving. ⭐</p>
